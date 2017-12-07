@@ -29,7 +29,7 @@ var allCategoriesUrl =
 var categoriesTitleHtml = "snippets/categories-title-snippet.html";
 var categoryHtml = "snippets/category-snippet.html";
 var menuItemsUrl =
-  "https://egegencgirisimciler.com/wp-content/uploads/menu_items duzenli.json?category=";
+  "";
 var menuItemsTitleHtml = "snippets/menu-items-title.html";
 var menuItemHtml = "snippets/menu-item.html";
 
